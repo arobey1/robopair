@@ -8,6 +8,11 @@ conda activate robopair
 pip install -r requirements.txt
 ```
 
+Export API keys:
+```
+export OPENAI_API_KEY=<your openai key>
+```
+
 Running:
 ```
 bash run_jackal.sh
